@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -10,26 +11,30 @@
         <img src="/Applications/MAMP/htdocs/web programing/carbo.png" alt =" Thereis a picture of a carbonara " >
        
         <h3> Ingredients </h3>
-            <ol> 5 teaspoons olive oil </ol>>  
-            <ol> 4 shallots,diced </ol>
-            <ol> 1 pound bacon, cut into strips </ol>
-            <ol> 1 large onion, cut into thin strips </ol>
-            <ol> 1 clove garlic, chopped </ol>
-            <ol> 1 (16 ounce) package dry fettucine pasta </ol>
-            <ol> 3/4 cup shredded Parmesan cheese </ol>
-            <ol> 1/2 cup heavy cream </ol>
-            <ol> 3 egg yolks </ol>
-            <ol> salt and pepper to taste</ol>
+        <li> 5 teaspoons liive oil </li>
+        <li> 4 shallots,diced </li>
+        <li> 1 pound bacon, cut into strips </li>
+        <li> 1 large onion, cut into thin strips </li>
+        <li> 1 clove garlic, chopped </li>
+        <li> 1 (16 ounce) package dry fettucine pasta </li>
+        <li> 3/4 cup shredded Parmesan cheese </li>
+        <li> 1/2 cup heavy cream </li>
+        <li> 3 egg yliks </li>
+        <li> salt and pepper to taste</li>
+
       
         <h3> Description </h3>
 
-            <ul>Step 1</ul>
-                <p> Heat olive oil in a large heavy saucepan over medium heat. Sauté shallots until softened. Stir in bacon and onion; cook and stir until bacon is evenly browned. Stir in garlic when bacon is about half done. Remove from heat. </p>
+            <input type="checkbox" id="step1">
+                <label for="step1">Step 1</label>
+                    <p> Heat olive oil in a large heavy saucepan over medium heat. Sauté shallots until softened. Stir in bacon and onion; cook and stir until bacon is evenly browned. Stir in garlic when bacon is about half done. Remove from heat. </p>
             
-                <ul>Step 2</ul>
-            <p> Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain pasta, then return it to the pot. </p>
+            <input type="checkbox" id="step2">
+                <label for="step1">Step 2</label>
+                    <p> Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain pasta, then return it to the pot. </p>
 
-                <ul>Step 3</ul>
+            <input type="checkbox" id="step3">
+                <label for="step1">Step 3</label>
                 <p>Whisk Parmesan, cream, and egg yolks together in a medium bowl. Pour bacon mixture over pasta; stir in cream mixture. Season with salt and pepper. </p>
 
     </body>
