@@ -7,7 +7,7 @@
     </head>
 
     <body>
-        <img src="/Users/alexandreboueye/Desktop/Vilnius/Class/web programing/carbo.png" alt =" Thereis a picture of a carbonara " >
+        <img src="/Applications/MAMP/htdocs/web programing/carbo.png" alt =" Thereis a picture of a carbonara " >
        
         <h3> Ingredients </h3>
             <ol> 5 teaspoons olive oil </ol>>  
